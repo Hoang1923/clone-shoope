@@ -1,0 +1,15 @@
+:root {
+    --background : rgb(238, 77, 45);
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: var(--background);
+}
+
+.header .header_logo img {
+  
+}
